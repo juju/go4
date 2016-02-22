@@ -15,7 +15,7 @@ limitations under the License.
 */
 
 // Package writerutil contains io.Writer types.
-package writerutil // import "go4.org/writerutil"
+package writerutil // import "github.com/juju/go4/writerutil"
 
 import (
 	"bytes"

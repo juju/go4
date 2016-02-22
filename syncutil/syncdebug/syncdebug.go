@@ -27,7 +27,7 @@ import (
 	"sync/atomic"
 	"time"
 
-	"go4.org/strutil"
+	"github.com/juju/go4/strutil"
 )
 
 // RWMutexTracker is a sync.RWMutex that tracks who owns the current

@@ -23,7 +23,7 @@ import (
 	"fmt"
 	"time"
 
-	"go4.org/wkfs"
+	"github.com/juju/go4/wkfs"
 	"golang.org/x/oauth2"
 )
 

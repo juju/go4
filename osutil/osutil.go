@@ -15,7 +15,7 @@ limitations under the License.
 */
 
 // Package osutil contains os level functions.
-package osutil // import "go4.org/osutil"
+package osutil // import "github.com/juju/go4/osutil"
 
 // capture executable on package init to work around various os issues if
 // captured after executable has been renamed.

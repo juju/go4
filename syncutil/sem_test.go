@@ -3,7 +3,7 @@ package syncutil_test
 import (
 	"testing"
 
-	"go4.org/syncutil"
+	"github.com/juju/go4/syncutil"
 )
 
 func TestSem(t *testing.T) {

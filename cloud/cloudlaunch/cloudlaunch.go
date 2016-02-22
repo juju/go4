@@ -33,7 +33,7 @@ import (
 	"strings"
 	"time"
 
-	"go4.org/cloud/google/gceutil"
+	"github.com/juju/go4/cloud/google/gceutil"
 
 	"golang.org/x/net/context"
 	"golang.org/x/oauth2"

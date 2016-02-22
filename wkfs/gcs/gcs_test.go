@@ -23,7 +23,7 @@ import (
 	"strings"
 	"testing"
 
-	"go4.org/wkfs"
+	"github.com/juju/go4/wkfs"
 	"golang.org/x/net/context"
 	"google.golang.org/cloud/compute/metadata"
 	"google.golang.org/cloud/storage"

@@ -28,7 +28,7 @@ import (
 	"os"
 	"strings"
 
-	"go4.org/ctxutil"
+	"github.com/juju/go4/ctxutil"
 	"golang.org/x/net/context"
 	"google.golang.org/cloud/storage"
 )

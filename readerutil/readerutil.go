@@ -15,7 +15,7 @@ limitations under the License.
 */
 
 // Package readerutil contains io.Reader types.
-package readerutil // import "go4.org/readerutil"
+package readerutil // import "github.com/juju/go4/readerutil"
 
 import (
 	"expvar"

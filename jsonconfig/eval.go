@@ -29,8 +29,8 @@ import (
 	"strconv"
 	"strings"
 
-	"go4.org/errorutil"
-	"go4.org/wkfs"
+	"github.com/juju/go4/errorutil"
+	"github.com/juju/go4/wkfs"
 )
 
 type stringVector struct {
